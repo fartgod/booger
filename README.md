@@ -8,4 +8,3 @@
  <img width="500" height="556" alt="image" src="https://github.com/user-attachments/assets/35d430c4-2ba1-459f-afd6-e2293dbbe882" />
 
 
-<img width="736" height="736" alt="pusheen bullseye by patrick_bategirl" src="https://github.com/user-attachments/assets/e9216f0e-1f07-456d-b3d7-384414c7e630" />
